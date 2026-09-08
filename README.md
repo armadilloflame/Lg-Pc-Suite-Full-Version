@@ -235,3 +235,6 @@ This repository serves as the official landing page for **LG PC Suite**. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LG PC Suite today!**
+
+---
+**Last updated:** 2026-09-08 11:59:43 UTC
